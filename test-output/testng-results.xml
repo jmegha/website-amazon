@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[<br><img src='D:\workspace\website-amazon\screenshots\DeiverToPopup_1562089328045.png' height='400' width='400'/><br/>]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="7527" started-at="2019-07-02T17:42:02Z" finished-at="2019-07-02T17:42:09Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="7527" started-at="2019-07-02T17:42:02Z" finished-at="2019-07-02T17:42:09Z">
+      <class name="com.qa.testPages.HomeTestPage">
+        <test-method status="PASS" signature="loadApplication()[pri:0, instance:com.qa.testPages.HomeTestPage@5c7fa833]" name="loadApplication" is-config="true" duration-ms="14101" started-at="2019-07-02T23:11:48Z" finished-at="2019-07-02T23:12:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadApplication -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.qa.testPages.HomeTestPage@5c7fa833]" name="beforeMethod" is-config="true" duration-ms="61" started-at="2019-07-02T23:12:02Z" finished-at="2019-07-02T23:12:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyHomePageTitleTest()[pri:1, instance:com.qa.testPages.HomeTestPage@5c7fa833]" name="verifyHomePageTitleTest" duration-ms="235" started-at="2019-07-02T23:12:02Z" finished-at="2019-07-02T23:12:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitleTest -->
+        <test-method status="PASS" signature="testDeliverTo()[pri:2, instance:com.qa.testPages.HomeTestPage@5c7fa833]" name="testDeliverTo" duration-ms="7192" started-at="2019-07-02T23:12:02Z" finished-at="2019-07-02T23:12:09Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src='D:\workspace\website-amazon\screenshots\DeiverToPopup_1562089328045.png' height='400' width='400'/><br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testDeliverTo -->
+      </class> <!-- com.qa.testPages.HomeTestPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
