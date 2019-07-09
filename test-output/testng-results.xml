@@ -2,30 +2,30 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
     <line>
-      <![CDATA[<br><img src='D:\workspace\website-amazon\screenshots\DeiverToPopup_1562089328045.png' height='400' width='400'/><br/>]]>
+      <![CDATA[<br><img src='D:\workspace\website-amazon\screenshots\DeiverToPopup_1562656590717.png' height='400' width='400'/><br/>]]>
     </line>
   </reporter-output>
-  <suite name="Suite" duration-ms="7527" started-at="2019-07-02T17:42:02Z" finished-at="2019-07-02T17:42:09Z">
+  <suite name="Suite" duration-ms="4765" started-at="2019-07-09T07:16:27Z" finished-at="2019-07-09T07:16:32Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="7527" started-at="2019-07-02T17:42:02Z" finished-at="2019-07-02T17:42:09Z">
+    <test name="Test" duration-ms="4765" started-at="2019-07-09T07:16:27Z" finished-at="2019-07-09T07:16:32Z">
       <class name="com.qa.testPages.HomeTestPage">
-        <test-method status="PASS" signature="loadApplication()[pri:0, instance:com.qa.testPages.HomeTestPage@5c7fa833]" name="loadApplication" is-config="true" duration-ms="14101" started-at="2019-07-02T23:11:48Z" finished-at="2019-07-02T23:12:02Z">
+        <test-method status="PASS" signature="loadApplication()[pri:0, instance:com.qa.testPages.HomeTestPage@51565ec2]" name="loadApplication" is-config="true" duration-ms="13310" started-at="2019-07-09T12:46:14Z" finished-at="2019-07-09T12:46:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loadApplication -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.qa.testPages.HomeTestPage@5c7fa833]" name="beforeMethod" is-config="true" duration-ms="61" started-at="2019-07-02T23:12:02Z" finished-at="2019-07-02T23:12:02Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.qa.testPages.HomeTestPage@51565ec2]" name="beforeMethod" is-config="true" duration-ms="56" started-at="2019-07-09T12:46:27Z" finished-at="2019-07-09T12:46:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="verifyHomePageTitleTest()[pri:1, instance:com.qa.testPages.HomeTestPage@5c7fa833]" name="verifyHomePageTitleTest" duration-ms="235" started-at="2019-07-02T23:12:02Z" finished-at="2019-07-02T23:12:02Z">
+        <test-method status="PASS" signature="verifyHomePageTitleTest()[pri:1, instance:com.qa.testPages.HomeTestPage@51565ec2]" name="verifyHomePageTitleTest" duration-ms="1148" started-at="2019-07-09T12:46:27Z" finished-at="2019-07-09T12:46:29Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyHomePageTitleTest -->
-        <test-method status="PASS" signature="testDeliverTo()[pri:2, instance:com.qa.testPages.HomeTestPage@5c7fa833]" name="testDeliverTo" duration-ms="7192" started-at="2019-07-02T23:12:02Z" finished-at="2019-07-02T23:12:09Z">
+        <test-method status="PASS" signature="testDeliverTo()[pri:2, instance:com.qa.testPages.HomeTestPage@51565ec2]" name="testDeliverTo" duration-ms="3542" started-at="2019-07-09T12:46:29Z" finished-at="2019-07-09T12:46:32Z">
           <reporter-output>
             <line>
-              <![CDATA[<br><img src='D:\workspace\website-amazon\screenshots\DeiverToPopup_1562089328045.png' height='400' width='400'/><br/>]]>
+              <![CDATA[<br><img src='D:\workspace\website-amazon\screenshots\DeiverToPopup_1562656590717.png' height='400' width='400'/><br/>]]>
             </line>
           </reporter-output>
         </test-method> <!-- testDeliverTo -->
